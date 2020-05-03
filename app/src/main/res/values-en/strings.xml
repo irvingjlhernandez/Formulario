@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="inicio">Enter the specified data to add an item.</string>
+    <string name="modelo">Enter the model.</string>
+    <string name="marca">Select the brand.</string>
+    <string name="precio">Enter the price.</string>
+    <string name="nah">None</string>
+    <string name="hmodelo">Ex: MX2020</string>
+    <string name="hprecio">Ex: 150000</string>
+    <string name="vacspinner">Please select a brand.</string>
+    <string name="modval">Please enter a valid model, MAX 10 characters, without accents, without spaces, or special characters and in capital letters.</string>
+    <string name="valprec">The price must have at least 6 digits.</string>
+    <string name="vacia">You have not entered items.</string>
+    <string name="elimino">The item was removed with</string>
+    <string name="mod">model:</string>
+    <string name="prec">and with price:</string>
+    <string name="marc">brand:</string>
+    <string name="error">An external error has occurred to the application.</string>
+    <string name="mo">Model:</string>
+    <string name="ma">Band:</string>
+    <string name="pr">Price:</string>
+    <string name="elide">The ID of the selected item is:</string>
+</resources>

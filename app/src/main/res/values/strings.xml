@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Formulario</string>
+    <string name="inicio">Ingrese los datos especificados para agregar un elemento.</string>
+    <string name="modelo">Ingrese el modelo.</string>
+    <string name="marca">Seleccione la marca.</string>
+    <string name="precio">Ingrese el precio.</string>
+    <string name="ford" translatable="false">Ford</string>
+    <string name="vw" translatable="false">Volkswagen</string>
+    <string name="che" translatable="false">Chevrolet</string>
+    <string name="honda" translatable="false">Honda</string>
+    <string name="nah">Ninguno</string>
+    <string name="hmodelo">Ej: MX2020</string>
+    <string name="hprecio">Ej: 150000</string>
+    <string name="vacspinner">Por favor seleccione una marca.</string>
+    <string name="modval">Por favor ingrese un modelo valido, MAX 10 caracteres, sin acentos, sin espacios, ni caracteres especiales y en mayusculas.</string>
+    <string name="valprec">El precio debe tener al menos 6 digitos.</string>
+    <string name="vacia">No ha ingresado elementos.</string>
+    <string name="elimino">Se elimino el elemento con</string>
+    <string name="mod">modelo:</string>
+    <string name="marc">marca:</string>
+    <string name="prec">y con precio:</string>
+    <string name="error">Ha ocurrido un error externo a la aplicacion.</string>
+    <string name="mo">Modelo:</string>
+    <string name="ma">Marca:</string>
+    <string name="pr">Precio:</string>
+    <string name="moneda" translatable="false">$</string>
+    <string name="elide">El ID del elemento seleccionado es:</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="marcas">
+        <item>@string/nah</item>
+        <item>@string/honda</item>
+        <item>@string/che</item>
+        <item>@string/vw</item>
+        <item>@string/ford</item>
+    </string-array>
+</resources>
